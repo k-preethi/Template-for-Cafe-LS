@@ -1,2 +1,2 @@
 # Template-for-Cafe-LS
-Full Stack Web Devlopment Internship
+Full Stack Web Development Internship
